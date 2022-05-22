@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-안녕하세요. 저는 꿈꾸는 개발자 신재우입니다.<br>
+Hi everyone!
+
+I'm a fresh back-end developer specialized on web applications. Currently I'm studying Spring and other new technologies. Hope to share some of my learning here and help people with a couple of posts.<br>
 <br>
 <br>
 
