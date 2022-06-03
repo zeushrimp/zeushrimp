@@ -8,9 +8,9 @@ I'm a fresh back-end developer specialized on web applications. Currently I'm st
 
 # :relaxed: 경력
 > 2021-11-10 ~ 2022-05-20 <br>
-> -JAVA / Python 기반 AI 소프트웨어 개발과정 이수<br>
+> - JAVA / Python 기반 AI 소프트웨어 개발과정 이수<br>
 > 2022-06-01 ~ <br>
-> -Watosolution C#,JAVA,PYTHON developer full-stack<br>
+> - Wato Solution C#,JAVA,PYTHON developer full-stack<br>
 <br>
 <br>
 
