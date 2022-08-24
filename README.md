@@ -11,7 +11,9 @@ I'm a fresh back-end developer specialized on web applications. Currently I'm st
 > - JAVA / Python 기반 AI 소프트웨어 개발과정 이수<br>
 
 > 2022-06-01 ~ <br>
-> - Wato Solution C#,JAVA,PYTHON developer <br>
+> - Wato Solution C#,JAVA,JavaScript,Thymeleaf,JPA,SpringSecurity <br>
+> - 고객사 데쉬보드 웹사이트개발
+
 <br>
 <br>
 
