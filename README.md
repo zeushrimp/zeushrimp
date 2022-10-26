@@ -2,7 +2,7 @@
 
 Hi everyone!
 
-I'm a fresh back-end developer specialized on web applications. Currently I'm studying Spring and other new technologies. Hope to share some of my learning here and help people with a couple of posts.<br>
+I'm a fresh  developer specialized on web applications. Currently I'm studying Spring and other new technologies. Hope to share some of my learning here and help people with a couple of posts.<br>
 <br>
 <br>
 
