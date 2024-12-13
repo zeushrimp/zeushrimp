@@ -12,8 +12,13 @@ I'm a fresh  developer specialized on web applications. Currently I'm studying S
 
 > 2022-06-01 ~ <br>
 > - Wato Solution C#,JAVA,JavaScript,Thymeleaf,JPA,SpringSecurity,WebSocket,rabitMQ <br>
+> - V사 데쉬보드 웹사이트개발
 > - C사 데쉬보드 웹사이트개발
 > - W사 실시간 모니터링 웹사이트개발 broadcast
+> - C사 데쉬보드 웹사이트개발
+> - S사 데이터관리프로그램 개발 및 관리 웹사이트개발
+> - F사 데이터관리프로그램 개발 및 관리 웹사이트개발
+
 
 <br>
 <br>
