@@ -85,40 +85,88 @@ FA On-site Software Engineer
 ## Tech Stack
 
 ### Languages
-- Java
-- Python
-- JavaScript
+- Java  
+- Python  
+- JavaScript  
+- C#  
 
-### Backend
-- Spring
-- Spring Security
-- JPA
-- Thymeleaf
-- RabbitMQ
-- WebSocket
+---
+
+### Backend & Server
+- Spring Framework  
+- Spring Boot  
+- Spring Security  
+- JPA / Hibernate  
+- Thymeleaf  
+- WebSocket  
+- RabbitMQ  
+- REST API design & implementation  
+- File-based data processing (JSON, Log)  
+- Multi-threading & scheduled tasks  
+
+---
 
 ### Frontend
-- React
-- HTML5
-- CSS3
-- JavaScript
-- jQuery
-- Bootstrap
-- Canvas API
+- React  
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- jQuery  
+- Bootstrap  
+- AG-Grid (large-scale data tables)  
+- Chart.js (data visualization)  
+- Canvas API (manual operation & control UI)  
+
+---
 
 ### Database
-- Oracle
-- MariaDB
-- SQLite
+- MariaDB  
+- Oracle  
+- SQLite  
+- SQL optimization & schema design  
+- History / production / quality data modeling  
 
-### Tools & Environment
-- Git
-- GitHub
-- Apache Tomcat
-- Windows
-- Jupyter
-- Anaconda
-- Selenium
+---
+
+### Factory Automation (FA)
+- PLC data integration  
+- Vision PC / MES PC data flow handling  
+- FA data monitoring & history management  
+- Real-time equipment status visualization  
+- PC-based FA system control & operation  
+- SECS-II / HSMS message handling & logging  
+
+---
+
+### DevOps & Environment
+- Git  
+- GitHub  
+- Gradle  
+- Apache Tomcat  
+- Nginx  
+- Windows-based production environments  
+- JAR packaging & deployment  
+
+---
+
+### Tools & Utilities
+- IntelliJ IDEA  
+- Visual Studio / Visual Studio Code  
+- Jupyter Notebook  
+- Anaconda  
+- Selenium  
+- Postman  
+- Chrome DevTools  
+
+---
+
+### Development Practices
+- MVC architecture  
+- Object-Oriented Programming (OOP)  
+- Modular & reusable code design  
+- Legacy system refactoring (PHP → Java)  
+- Client-specific system customization  
+- On-site troubleshooting & production support  
 
 ---
 
