@@ -1,114 +1,144 @@
 ### Hi there 👋
 
 Hi, I'm Jaewoo Shin.  
-I'm a Web-focused Software Engineer with Factory Automation (FA) experience.
+I'm a software engineer focused on web applications connected to Factory Automation (FA) environments.
 
-I specialize in web-based monitoring dashboards, real-time visualization, and history management systems  
-connected to FA environments (PLC, Vision PC, MES).
+I mainly build web-based monitoring dashboards, real-time visualization systems, and history management platforms
+that are actually used in manufacturing sites.
 
-My work focuses on building reliable, production-ready systems  
-that actually run in manufacturing sites — not just demos.
-
----
-
-## 🚀 About Me
-
-- 💻 Web-centered Software Engineer (Frontend + Backend)
-- 🏭 Factory Automation (FA) data integration experience
-- 📊 Real-time monitoring dashboards & history management
-- 🌎 Overseas on-site experience (USA manufacturing lines)
-- 🔍 Strong in debugging data flow, timing, and stability issues
+My strength is combining web development with a solid understanding of FA data flow and on-site environments.
 
 ---
 
-## 💼 Experience
+## About Me
+
+Web-centered software engineer (Frontend + Backend)  
+Factory Automation (FA) data integration experience  
+Real-time monitoring dashboards and history management systems  
+Overseas on-site experience in manufacturing environments  
+Strong at debugging data flow, timing issues, and system stability
+
+---
+
+## Experience
 
 ### WATO Solution  
-Software Engineer (Web & FA Systems)  
-📅 2022.06 ~ Present
+Software Engineer (Web and FA Systems)  
+2022.06 ~ Present
 
-- Web-based FA monitoring & history management system development
-- Real-time dashboard development using Java & JavaScript
-- PLC → Vision PC → MES → Web data flow design & maintenance
-- File-based FA data processing and system stabilization
-- WebSocket-based real-time data broadcasting
-- Client-specific dashboard customization and feature expansion
+Web-based FA monitoring and history management system development  
+Real-time dashboard development using Java, JavaScript, and React  
+PLC to Vision PC to MES to Web data flow design and maintenance  
+File-based FA data processing and system stabilization  
+WebSocket-based real-time data broadcasting  
+Client-specific dashboard customization and continuous feature improvement  
 
-#### Major Projects
-- C Company – FA Monitoring & History Web System  
-- V Company – FA Dashboard Web Customization  
-- W Company – Real-time Monitoring Web (Broadcast-based)  
-- S Company – Data Management Program & Web System  
-- F Company – Data Management Program & Web System  
-
----
-
-## 🌎 Overseas Experience
-
-### USA (San Francisco / Hayward) – FA On-site Engineer  
-📅 2024 (Approx. 5 months)
-
-- On-site support for FA production lines
-- FA-related PC control and system operation
-- Real-time issue analysis and fixes in production environments
-- Communication with local engineers and stakeholders
-- Stabilization of web monitoring & history systems
+Major Projects  
+C Company FA monitoring and history web system (PHP to Java refactoring)  
+V Company FA dashboard web customization  
+F Company FA dashboard and data management web customization  
+W Company real-time monitoring web system (broadcast-based)  
+S Company data management program and management web system  
+O Company ACS web system with real-time monitoring and Canvas-based manual operation UI  
 
 ---
 
-## 🎓 Education
+## Overseas Experience
 
-### JAVA & Python-based AI Application Software Developer Program  
-📅 2021.11 ~ 2022.05
+USA San Francisco and Hayward  
+FA On-site Software Engineer  
+2024 (approximately 5 months)
 
-- Java & Python application development
-- Machine Learning / Deep Learning fundamentals
-- Web frontend & backend architecture
-- MVC pattern and database integration
-- Object-Oriented Programming (OOP)
-
----
-
-## 🛠 Tech Stack
-
-### Languages & Frameworks
-- Java, Python, JavaScript
-- Spring, Spring Security, JPA, Thymeleaf
-- WebSocket, RabbitMQ
-
-### Frontend
-- HTML5, CSS3, JavaScript
-- jQuery, Bootstrap
-- Canvas API (manual operation UI)
-
-### Database
-- Oracle, MariaDB, SQLite
-
-### Tools & Environment
-- Git, GitHub
-- Apache Tomcat
-- Windows
-- Jupyter, Anaconda
-- Selenium
+On-site support for FA production lines  
+FA-related PC control and system operation  
+PLC, Vision PC, and MES data flow verification and issue handling  
+Real-time troubleshooting in production environments  
+Direct communication with local engineers and stakeholders  
+Stabilization of web monitoring and history management systems  
 
 ---
 
-## 📂 Projects
+## Volunteer Experience
 
-### Green Project  
-📅 2022.04.18 ~ 2022.05.13
+Philippines Overseas Volunteer Activity  
 
-- Web-based application project
-- Backend & database integration
-- Basic ML concept application
-
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/your-id
-- Email: your-email@example.com
+English teacher at a local orphanage  
+Education support for orphaned children through structured English classes  
+Supply delivery and life support activities for mountain tribal communities  
+Participation in establishing a local school and providing basic education  
+Collaboration with local residents to build sustainable educational support  
 
 ---
 
-⭐ I believe good software is software that works reliably in real environments.
+## Education
+
+JAVA and Python based AI Application Software Developer Program  
+2021.11 ~ 2022.05
+
+Java and Python application development  
+Machine Learning and Deep Learning fundamentals  
+Web frontend and backend architecture  
+MVC pattern and database integration  
+Object-oriented programming and software design fundamentals  
+
+---
+
+## Tech Stack
+
+Languages  
+Java  
+Python  
+JavaScript  
+
+Backend  
+Spring  
+Spring Security  
+JPA  
+Thymeleaf  
+RabbitMQ  
+WebSocket  
+
+Frontend  
+React  
+HTML5  
+CSS3  
+JavaScript  
+jQuery  
+Bootstrap  
+Canvas API  
+
+Database  
+Oracle  
+MariaDB  
+SQLite  
+
+Tools and Environment  
+Git  
+GitHub  
+Apache Tomcat  
+Windows  
+Jupyter  
+Anaconda  
+Selenium  
+
+---
+
+## Projects
+
+Green Project  
+2022.04.18 ~ 2022.05.13
+
+Web-based application project  
+Backend and database integration  
+Basic machine learning concept application  
+
+---
+
+## Contact
+
+GitHub https://github.com/zeushrimp
+Email chung_103@naver.com
+
+---
+
+I believe good software is software that runs reliably in real-world environments.
