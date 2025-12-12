@@ -1,55 +1,114 @@
 ### Hi there 👋
 
-Hi everyone!
+Hi, I'm Jaewoo Shin.  
+I'm a Web-focused Software Engineer with Factory Automation (FA) experience.
 
-I'm a fresh  developer specialized on web applications. Currently I'm studying Spring and other new technologies. Hope to share some of my learning here and help people with a couple of posts.<br>
-<br>
-<br>
+I specialize in web-based monitoring dashboards, real-time visualization, and history management systems  
+connected to FA environments (PLC, Vision PC, MES).
 
-# :relaxed: 경력
-> 2021-11-10 ~ 2022-05-20 <br>
-> - JAVA / Python 기반 AI 소프트웨어 개발과정 이수<br>
+My work focuses on building reliable, production-ready systems  
+that actually run in manufacturing sites — not just demos.
 
-> 2022-06-01 ~ <br>
-> - Wato Solution C#,JAVA,JavaScript,Thymeleaf,JPA,SpringSecurity,WebSocket,rabitMQ <br>
-> - V사 데쉬보드 웹사이트개발
-> - C사 데쉬보드 웹사이트개발
-> - W사 실시간 모니터링 웹사이트개발 broadcast
-> - C사 데쉬보드 웹사이트개발
-> - S사 데이터관리프로그램 개발 및 관리 웹사이트개발
-> - F사 데이터관리프로그램 개발 및 관리 웹사이트개발
+---
 
+## 🚀 About Me
 
-<br>
-<br>
+- 💻 Web-centered Software Engineer (Frontend + Backend)
+- 🏭 Factory Automation (FA) data integration experience
+- 📊 Real-time monitoring dashboards & history management
+- 🌎 Overseas on-site experience (USA manufacturing lines)
+- 🔍 Strong in debugging data flow, timing, and stability issues
 
-# :calendar: 프로젝트 
+---
 
->2022.04.18 -2022.05.13
->-Green Project
+## 💼 Experience
 
-<br>
-<br>
+### WATO Solution  
+Software Engineer (Web & FA Systems)  
+📅 2022.06 ~ Present
 
+- Web-based FA monitoring & history management system development
+- Real-time dashboard development using Java & JavaScript
+- PLC → Vision PC → MES → Web data flow design & maintenance
+- File-based FA data processing and system stabilization
+- WebSocket-based real-time data broadcasting
+- Client-specific dashboard customization and feature expansion
 
-# :books: 사용해본 툴...
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white">
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white">
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=white"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white">
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Kakao-FFCD00?style=flat&logo=Kakao&logoColor=white"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white">
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white">
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium&logoColor=white"><br>
+#### Major Projects
+- C Company – FA Monitoring & History Web System  
+- V Company – FA Dashboard Web Customization  
+- W Company – Real-time Monitoring Web (Broadcast-based)  
+- S Company – Data Management Program & Web System  
+- F Company – Data Management Program & Web System  
 
-<br>
-<br>
+---
+
+## 🌎 Overseas Experience
+
+### USA (San Francisco / Hayward) – FA On-site Engineer  
+📅 2024 (Approx. 5 months)
+
+- On-site support for FA production lines
+- FA-related PC control and system operation
+- Real-time issue analysis and fixes in production environments
+- Communication with local engineers and stakeholders
+- Stabilization of web monitoring & history systems
+
+---
+
+## 🎓 Education
+
+### JAVA & Python-based AI Application Software Developer Program  
+📅 2021.11 ~ 2022.05
+
+- Java & Python application development
+- Machine Learning / Deep Learning fundamentals
+- Web frontend & backend architecture
+- MVC pattern and database integration
+- Object-Oriented Programming (OOP)
+
+---
+
+## 🛠 Tech Stack
+
+### Languages & Frameworks
+- Java, Python, JavaScript
+- Spring, Spring Security, JPA, Thymeleaf
+- WebSocket, RabbitMQ
+
+### Frontend
+- HTML5, CSS3, JavaScript
+- jQuery, Bootstrap
+- Canvas API (manual operation UI)
+
+### Database
+- Oracle, MariaDB, SQLite
+
+### Tools & Environment
+- Git, GitHub
+- Apache Tomcat
+- Windows
+- Jupyter, Anaconda
+- Selenium
+
+---
+
+## 📂 Projects
+
+### Green Project  
+📅 2022.04.18 ~ 2022.05.13
+
+- Web-based application project
+- Backend & database integration
+- Basic ML concept application
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/your-id
+- Email: your-email@example.com
+
+---
+
+⭐ I believe good software is software that works reliably in real environments.
