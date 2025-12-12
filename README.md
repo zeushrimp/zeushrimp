@@ -1,4 +1,4 @@
-## Hi there 👋  
+## 👋 Hi there  
 I'm Jaewoo Shin,  
 a Software Engineer focused on Web Applications in Factory Automation (FA) environments.
 
@@ -9,7 +9,7 @@ My strength lies in combining solid web development skills with a deep understan
 
 ---
 
-## About Me
+## 🙋 About Me
 
 - Web-centered Software Engineer (Frontend + Backend)
 - Factory Automation (FA) data integration experience
@@ -19,9 +19,9 @@ My strength lies in combining solid web development skills with a deep understan
 
 ---
 
-## Experience
+## 💼 Experience
 
-### WATO Solution  
+### 🏭 WATO Solution  
 Software Engineer (Web & FA Systems)  
 2022.06 ~ Present
 
@@ -42,9 +42,9 @@ Software Engineer (Web & FA Systems)
 
 ---
 
-## Overseas Experience
+## 🌎 Overseas Experience
 
-### USA – San Francisco / Hayward  
+### 🇺🇸 USA – San Francisco / Hayward  
 FA On-site Software Engineer  
 2024 (Approximately 5 months)
 
@@ -57,19 +57,19 @@ FA On-site Software Engineer
 
 ---
 
-## Volunteer Experience
+## 🤝 Volunteer Experience
 
-### Philippines Overseas Volunteer Activity
+### 🇵🇭 Philippines Overseas Volunteer Activity
 
 - English teacher at a local orphanage
 - Provided structured English education for orphaned children
-- Delivered supplies and life-support items to mountain tribal communities
-- Participated in establishing a local school and providing basic education
-- Collaborated with local residents to build sustainable educational support
+- Delivered supplies to mountain tribal communities
+- Participated in establishing a local school and basic education
+- Collaborated with local residents for sustainable education support
 
 ---
 
-## Education
+## 🎓 Education
 
 ### JAVA & Python-based AI Application Software Developer Program  
 2021.11 ~ 2022.05
@@ -78,172 +78,59 @@ FA On-site Software Engineer
 - Machine Learning & Deep Learning fundamentals
 - Web frontend & backend architecture
 - MVC pattern and database integration
-- Object-oriented programming and software design fundamentals
+- Object-oriented programming fundamentals
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
-- Java  
-- Python  
-- JavaScript  
-- C#  
-
----
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
 ### Backend & Server
-- Spring Framework  
-- Spring Boot  
-- Spring Security  
-- JPA / Hibernate  
-- Thymeleaf  
-- WebSocket  
-- RabbitMQ  
-- REST API design & implementation  
-- File-based data processing (JSON, Log)  
-- Multi-threading & scheduled tasks  
-
----
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-Hibernate-59666C?style=flat)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=flat)
 
 ### Frontend
-- React  
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- jQuery  
-- Bootstrap  
-- AG-Grid (large-scale data tables)  
-- Chart.js (data visualization)  
-- Canvas API (manual operation & control UI)  
-
----
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![AG-Grid](https://img.shields.io/badge/AG--Grid-2E77BC?style=flat)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
+![Canvas](https://img.shields.io/badge/Canvas-HTML5-E34F26?style=flat)
 
 ### Database
-- MariaDB  
-- Oracle  
-- SQLite  
-- SQL optimization & schema design  
-- History / production / quality data modeling  
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+### FA & Environment
+![PLC](https://img.shields.io/badge/PLC-Factory%20Automation-555555?style=flat)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
 
 ---
 
-### Factory Automation (FA)
-- PLC data integration  
-- Vision PC / MES PC data flow handling  
-- FA data monitoring & history management  
-- Real-time equipment status visualization  
-- PC-based FA system control & operation  
-- SECS-II / HSMS message handling & logging  
+## 📂 Projects
+(실제 운영 중인 프로젝트 중심, 비공개 소스)
+
+- FA Monitoring & History Management Platform
+- Real-time FA Monitoring System (WebSocket)
+- ACS Web Control & Monitoring System
+- Client-specific FA Dashboard Customization
+- Legacy System Refactoring (PHP → Java)
 
 ---
 
-### DevOps & Environment
-- Git  
-- GitHub  
-- Gradle  
-- Apache Tomcat  
-- Nginx  
-- Windows-based production environments  
-- JAR packaging & deployment  
-
----
-
-### Tools & Utilities
-- IntelliJ IDEA  
-- Visual Studio / Visual Studio Code  
-- Jupyter Notebook  
-- Anaconda  
-- Selenium  
-- Postman  
-- Chrome DevTools  
-
----
-
-### Development Practices
-- MVC architecture  
-- Object-Oriented Programming (OOP)  
-- Modular & reusable code design  
-- Legacy system refactoring (PHP → Java)  
-- Client-specific system customization  
-- On-site troubleshooting & production support  
-
----
-
-## Projects
-
-### FA Monitoring & History Management Platform  
-2022.06 ~ Present
-
-- Web-based monitoring and history management platform for FA environments
-- Designed and developed web dashboards for real-time FA data monitoring
-- Implemented production, quality, and NG history management features
-- Built large-scale data grids using AG-Grid for fast history lookup
-- Implemented chart-based visualization for defect and production trends
-- Stabilized data flow from PLC, Vision PC, and MES to web systems
-- Supported multiple client environments through modular customization
-
----
-
-### Real-time FA Monitoring System (Broadcast & WebSocket)  
-2023 ~
-
-- Real-time factory monitoring web application
-- Implemented real-time data broadcasting using WebSocket
-- Designed live monitoring dashboards for production status
-- Reduced data latency and improved UI responsiveness
-- Applied real-time visualization techniques for factory operations
-
----
-
-### ACS Web Control & Monitoring System  
-2023 ~
-
-- Web system for Automated Control System (ACS) environments
-- Developed frontend-focused web monitoring interface
-- Implemented manual operation UI using Canvas API
-- Visualized equipment status and control flows in real time
-- Enhanced user interaction for operational safety and clarity
-
----
-
-### Client-specific FA Dashboard Customization  
-2022.08 ~ 2023.02
-
-- Customized FA monitoring systems for multiple clients
-- Customized dashboards for C, V, F, and S companies
-- Adapted data structures and UI to different FA environments
-- Implemented client-specific monitoring rules and history logic
-- Maintained common core architecture while supporting variations
-
----
-
-### Legacy System Refactoring (PHP → Java)  
-2022.06 ~ 2022.08
-
-- Refactored legacy FA web system to modern backend architecture
-- Migrated PHP-based system to Java & Spring
-- Improved system stability and maintainability
-- Reorganized data processing logic and API structure
-- Ensured functional parity during migration
-
----
-
-### Green Project  
-2022.04.18 ~ 2022.05.13
-
-- Web-based application project
-- Backend and database integration
-- Applied basic machine learning concepts
-- Implemented MVC architecture and data persistence
-
----
-
-## Contact
+## 📫 Contact
 
 - GitHub: https://github.com/zeushrimp  
 - Email: chung_103@naver.com  
 
 ---
 
-I believe good software is software that runs reliably in real-world environments.
+> I believe good software is software that runs reliably in real-world environments.
