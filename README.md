@@ -23,7 +23,7 @@ My strength lies in combining solid web development skills with a deep understan
 
 ### 🏭 WATO Solution  
 Software Engineer (Web & FA Systems)  
-2022.06 ~ Present
+2022.01 ~ Present
 
 - Development of web-based FA monitoring and history management systems
 - Real-time dashboard development using Java, JavaScript, and React
