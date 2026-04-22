@@ -2,18 +2,19 @@
 I'm Jaewoo Shin,  
 a Software Engineer focused on Web Applications in Factory Automation (FA) environments.
 
-I build web-based monitoring dashboards, real-time visualization systems, and history management platforms
-that are actually used in manufacturing sites.
+I build web-based monitoring dashboards, real-time visualization systems, history management platforms, and manufacturing operation support systems that are actually used in production sites.
 
-My strength lies in combining solid web development skills with a deep understanding of FA data flow and on-site environments.
+My strength lies in combining solid web development skills with a deep understanding of FA data flow, on-site environments, and real-world system stability.
 
 ---
 
 ## 🙋 About Me
 
 - Web-centered Software Engineer (Frontend + Backend)
-- Factory Automation (FA) data integration experience
-- Real-time monitoring dashboards & history management systems
+- Factory Automation (FA) and manufacturing system integration experience
+- MCS-related development and operational support experience
+- Real-time monitoring dashboards, history management systems, and control-oriented web applications
+- Experience with MongoDB-based log handling, Logpresso-based log analysis, and troubleshooting data flow issues in manufacturing environments
 - Overseas on-site experience in manufacturing environments
 - Strong at debugging data flow, timing issues, and system stability
 
@@ -22,15 +23,18 @@ My strength lies in combining solid web development skills with a deep understan
 ## 💼 Experience
 
 ### 🏭 WATO Solution  
-Software Engineer (Web & FA Systems)  
+Software Engineer (Web, FA Systems & Manufacturing Integration)  
 2022.01 ~ Present
 
-- Development of web-based FA monitoring and history management systems
+- Development of web-based FA monitoring, history management, and manufacturing operation support systems
 - Real-time dashboard development using Java, JavaScript, and React
-- Design and maintenance of data flow from PLC → Vision PC → MES → Web
-- File-based FA data processing and system stabilization
-- WebSocket-based real-time data broadcasting
+- Design and maintenance of data flow across PLC, Vision PC, MES, MCS, and Web systems
+- Development and stabilization of file-based and log-based FA data processing systems
+- WebSocket-based real-time data broadcasting and monitoring
+- Log search, operational history analysis, and troubleshooting support using MongoDB and Logpresso
 - Client-specific dashboard customization and continuous feature improvement
+- Debugging and stabilization of manufacturing site systems with focus on timing, data consistency, and reliability
+- Since January 2025, involved in web development and operational support for systems used in a large-scale semiconductor manufacturing environment
 
 #### Major Projects
 - C Company – FA monitoring & history web system (PHP → Java refactoring)
@@ -39,6 +43,7 @@ Software Engineer (Web & FA Systems)
 - W Company – Real-time monitoring web system (broadcast-based)
 - S Company – Data management program & management web system
 - O Company – ACS web system with real-time monitoring and Canvas-based manual operation UI
+- Large-scale semiconductor manufacturing site – Web development, monitoring, history management, and MCS-related operational system support (2025.01 ~ Present)
 
 ---
 
@@ -50,10 +55,10 @@ FA On-site Software Engineer
 
 - On-site support for FA production lines
 - FA-related PC control and system operation
-- PLC, Vision PC, and MES data flow verification and issue handling
-- Real-time troubleshooting in production environments
+- Verification and troubleshooting of data flow between PLC, Vision PC, MES, and Web systems
+- Real-time issue handling in production environments
 - Direct communication with local engineers and stakeholders
-- Stabilization of web monitoring and history management systems
+- Stabilization of web monitoring and history management systems used on-site
 
 ---
 
@@ -103,26 +108,33 @@ FA On-site Software Engineer
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
 ![Canvas](https://img.shields.io/badge/Canvas-HTML5-E34F26?style=flat)
 
-### Database
+### Database & Data Platform
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Logpresso](https://img.shields.io/badge/Logpresso-1E3A8A?style=flat)
 
 ### FA & Environment
 ![PLC](https://img.shields.io/badge/PLC-Factory%20Automation-555555?style=flat)
+![MCS](https://img.shields.io/badge/MCS-Manufacturing%20Control%20System-555555?style=flat)
+![MES](https://img.shields.io/badge/MES-Manufacturing%20Execution%20System-555555?style=flat)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
 
 ---
 
 ## 📂 Projects
-(실제 운영 중인 프로젝트 중심, 비공개 소스)
+(Production-used projects, source code private)
 
 - FA Monitoring & History Management Platform
 - Real-time FA Monitoring System (WebSocket)
 - ACS Web Control & Monitoring System
 - Client-specific FA Dashboard Customization
 - Legacy System Refactoring (PHP → Java)
+- MCS-related Manufacturing Operation Support System
+- MongoDB-based log/history data handling and search features
+- Logpresso-integrated operational log analysis and monitoring support
 
 ---
 
